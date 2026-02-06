@@ -1,0 +1,5 @@
+C:/Users/italo/source/repos/Hello/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/italo/source/repos/Hello/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/italo/source/repos/Hello/out/build/x64-debug/Hello/CMakeFiles/Hello.dir
+C:/Users/italo/source/repos/Hello/out/build/x64-debug/Hello/CMakeFiles/edit_cache.dir
+C:/Users/italo/source/repos/Hello/out/build/x64-debug/Hello/CMakeFiles/rebuild_cache.dir

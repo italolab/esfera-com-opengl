@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/italo/source/repos/Hello/out/build/x64-debug/cmake_install.cmake",
+		"C:/Users/italo/source/repos/Hello/out/build/x64-debug/Hello/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
